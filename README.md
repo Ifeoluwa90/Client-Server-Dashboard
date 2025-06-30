@@ -176,8 +176,16 @@ water_results = shelter.read(water_query)  # Should return matching records
 - Error handling: Gracefully handles missing data and connection issues
 
 ### video
+## 📺 Dashboard Functionality Demo
 
+[![Dashboard Demo](https://img.youtube.com/vi/zg_PcO3dVn8/maxresdefault.jpg)](https://www.youtube.com/watch?v=zg_PcO3dVn8 "Grazioso Salvare Dashboard Demo - Click to Watch!")
 
+**Video demonstrates:**
+- Interactive filtering for all rescue types
+- Data table functionality and row selection
+- Geolocation mapping with animal details
+- Breed distribution chart updates
+- Complete user workflow from filter selection to animal identification
 
 **Dashboard Component Details:**
 
