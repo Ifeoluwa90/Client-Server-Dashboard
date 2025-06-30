@@ -232,6 +232,20 @@ water_results = shelter.read(water_query)  # Should return matching records
 - **Professional User Experience**: Enterprise-level interface design with intuitive navigation and comprehensive error handling
 - **Scalable Architecture**: Modular design supporting easy expansion and integration with additional rescue organization databases
 
+  # CS-340 Portfolio Reflection
+
+## How do you write programs that are maintainable, readable, and adaptable?
+
+Writing maintainable code requires modular design and clear documentation. In the CRUD Python module from Project One, I created separate methods for each database operation with comprehensive error handling, making the code easy to test and modify. The modular design allowed me to easily connect the dashboard widgets to the database in Project Two without rewriting database logic. This CRUD module could be adapted for future projects like inventory management systems or customer databases by simply changing the connection parameters and extending the base class.
+
+## How do you approach a problem as a computer scientist?
+
+I approach problems systematically by analyzing requirements before implementation. For the Grazioso Salvare project, I first understood the client's need to identify rescue dogs based on specific criteria, then designed the database queries and user interface to meet those requirements efficiently. This project differed from previous coursework because it required thinking like a consultant working with real client needs rather than just completing technical exercises. For future database projects, I would use similar techniques: thorough requirements analysis, iterative development with client feedback, and designing for scalability from the beginning.
+
+## What do computer scientists do, and why does it matter?
+
+Computer scientists solve real-world problems by creating technological solutions that improve efficiency and decision-making. My dashboard transforms a manual process that could take hours into an automated system that identifies suitable rescue animals in seconds, allowing organizations to focus on training rather than data management. This type of work matters because it makes complex technology accessible to domain experts who can apply it to solve important problems, ultimately improving rescue operations and potentially saving more lives through better efficiency.
+
 ## Contact
 
 Your name: Ifeoluwa Adewoyin
