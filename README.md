@@ -1,4 +1,3 @@
-# Client-Server-Dashboard
 # Grazioso Salvare Animal Rescue Dashboard
 
 *The Grazioso Salvare Animal Rescue Dashboard is a comprehensive, interactive web application designed to help identify and categorize dogs suitable for search-and-rescue training. This full-stack dashboard application integrates with MongoDB databases to provide real-time filtering, visualization, and mapping capabilities for animal shelter data. The dashboard enables rescue organizations to efficiently identify candidate animals based on specific rescue type criteria including water rescue, mountain/wilderness rescue, and disaster/individual tracking operations.*
