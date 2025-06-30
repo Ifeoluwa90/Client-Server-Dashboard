@@ -226,9 +226,9 @@ water_results = shelter.read(water_query)  # Should return matching records
 
 ## Contact
 
-Your name: [Your Name Here]
+Your name: Ifeoluwa Adewoyin
 
-Email: [Your Email Here]
+Email: Ifeoluwaadewoyin90@gmail.com
 
 Course: CS-340 Client/Server Development
 
